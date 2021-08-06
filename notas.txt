@@ -1,3 +1,5 @@
 console.group("cuadrados")
 agrupa los mensajes que esta en medio de estos
 console.groupEnd();
+
+el id en los input es para conectar el label con el input

@@ -56,3 +56,17 @@ function areaCirculo(radio) {
 // console.log("el area es "+ areaCirculo);
 
 // console.groupEnd();
+
+function calcularPermitroCuadrado(){
+    var input = document.getElementById("inputCuadrado");
+    var value = input.value;
+    const perimetro = perimetroCuadrado(value);
+    alert(perimetro);
+}
+
+function CalcularAreaCuadrado(){
+    var input = document.getElementById("inputCuadrado");
+    var value = input.value;
+    const perimetro = perimetroCuadrado(value);
+    alert(perimetro);
+}
