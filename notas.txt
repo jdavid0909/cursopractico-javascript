@@ -1,0 +1,3 @@
+console.group("cuadrados")
+agrupa los mensajes que esta en medio de estos
+console.groupEnd();
